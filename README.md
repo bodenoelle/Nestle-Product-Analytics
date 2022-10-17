@@ -1,6 +1,5 @@
 # Nestle-Product-Analytics
 
-Ongoing Project under __10alytics__ Growth Internship Program (GIP)
 
 Project completed as part of the real life case studies under __10alytics__ Growth Internship Program (GIP).
 
